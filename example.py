@@ -1,3 +1,3 @@
 print("Hello World!")
 print("Welcome")
-print("It worked")
+print("This is the best time ever")
